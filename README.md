@@ -1,5 +1,5 @@
-# Projeto teste
+# Manutenção de Jogos
 
-## Proejto criado usando o GitHub e o GitHub Desktop
+## Aula 1
 
-Manutenção de jogos
+Eduardo Schmidt Schultz - 3° Série A
