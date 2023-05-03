@@ -1,5 +1,5 @@
 # Projeto teste
 
-# Proejto criado usando o GitHub e o GitHub Desktop
+## Proejto criado usando o GitHub e o GitHub Desktop
 
-Manutenção de jogos
+ManutenÃ§Ã£o de jogos
